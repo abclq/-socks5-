@@ -24,4 +24,4 @@ jobs:
 
     - name: Run proxy test script
       run: |
-        python .github/workflows/proxy_test.py
+        python proxy_test.py  # 指向根目录下的脚本
