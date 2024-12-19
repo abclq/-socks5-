@@ -18,6 +18,11 @@ accounts = [
     {"ip": "s10.serv00.com", "username": "123", "password": "123", "port": 55749},
     {"ip": "herewwsag.serv00.net", "username": "4ZuDEltoos", "password": "2MpAFfnn0b", "port": 8868},
     {"ip": "lqilqi123456.serv00.net", "username": "TyqNCZ7CXs", "password": "JZ51BaGr3S", "port": 5688},
+    {"ip": "smdng.serv00.net", "username": "123", "password": "123", "port": 55749},
+    {"ip": "lqilqi123456.serv00.net", "username": "TyqNCZ7CXs", "password": "JZ51BaGr3S", "port": 5688},
+    {"ip": "herewwsag.serv00.net", "username": "123", "password": "123", "port": 16452},
+    {"ip": "michaelcarter.serv00.net", "username": "123", "password": "123", "port": 8868},
+    {"ip": "morefieldpaul.serv00.net", "username": "123", "password": "123", "port": 8868},
 ]
 
 def test_socks5_connection(ip, port, username, password):
